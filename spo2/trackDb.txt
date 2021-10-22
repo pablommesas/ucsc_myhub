@@ -11,8 +11,8 @@ group gene
 
 track WT_S2-ChIP-INPUT_1
 bigDataUrl WT_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
-shortLabel wt INPUT 1 reads
-longLabel wt INPUT 1 reads mapped with STAR
+shortLabel WT S2-ChIP-INPUT 1 reads
+longLabel WT S2-ChIP-INPUT replicate 1 reads mapped with STAR
 type bam
 doWiggle on
 priority 2
@@ -20,8 +20,8 @@ group INPUT
 
 track 80_S2-ChIP-INPUT_1
 bigDataUrl 80_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
-shortLabel clr4d INPUT 1 reads
-longLabel clr4d INPUT 1 reads mapped with STAR
+shortLabel 80 S2-ChIP-INPUT 1 reads
+longLabel 80 S2-ChIP-INPUT replicate 1 reads mapped with STAR
 type bam
 doWiggle on
 priority 3

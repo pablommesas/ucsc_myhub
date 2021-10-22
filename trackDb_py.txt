@@ -1,0 +1,450 @@
+track 1022_S2-ChIP-INPUT_1
+bigDataUrl 1022_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel mot2d INPUT 1 reads
+longLabel mot2d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 2
+group INPUT
+
+track 1022_S2-ChIP_1
+bigDataUrl 1022_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel mot2d S2ChIP 1 reads
+longLabel mot2d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 3
+group S2ChIP
+
+track 1022_S2-ChIP_2
+bigDataUrl 1022_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel mot2d S2ChIP 2 reads
+longLabel mot2d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 4
+group S2ChIP
+
+track 1168_S2-ChIP-OIN_1
+bigDataUrl 1168_S2-ChIP-OIN_1.Aligned.sortedByCoord.out.bam
+shortLabel caf1d_ccr4d INPUT 1 reads
+longLabel caf1d_ccr4d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 5
+group INPUT
+
+track 1168_S2-ChIP_1
+bigDataUrl 1168_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel caf1d_ccr4d S2ChIP 1 reads
+longLabel caf1d_ccr4d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 6
+group S2ChIP
+
+track 1168_S2-ChIP_2
+bigDataUrl 1168_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel caf1d_ccr4d S2ChIP 2 reads
+longLabel caf1d_ccr4d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 7
+group S2ChIP
+
+track 301_H3K9me2_1
+bigDataUrl 301_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel swi6d H3K9me2 1 reads
+longLabel swi6d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 8
+group H3K9me2
+
+track 301_S2-ChIP-INPUT_1
+bigDataUrl 301_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel swi6d INPUT 1 reads
+longLabel swi6d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 9
+group INPUT
+
+track 301_S2-ChIP_1
+bigDataUrl 301_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel swi6d S2ChIP 1 reads
+longLabel swi6d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 10
+group S2ChIP
+
+track 301_S2-ChIP_2
+bigDataUrl 301_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel swi6d S2ChIP 2 reads
+longLabel swi6d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 11
+group S2ChIP
+
+track 302_H3K9me2_1
+bigDataUrl 302_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel clr3d H3K9me2 1 reads
+longLabel clr3d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 12
+group H3K9me2
+
+track 302_S2-ChIP-INPUT_1
+bigDataUrl 302_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel clr3d INPUT 1 reads
+longLabel clr3d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 13
+group INPUT
+
+track 302_S2-ChIP_1
+bigDataUrl 302_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel clr3d S2ChIP 1 reads
+longLabel clr3d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 14
+group S2ChIP
+
+track 302_S2-ChIP_2
+bigDataUrl 302_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel clr3d S2ChIP 2 reads
+longLabel clr3d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 15
+group S2ChIP
+
+track 324_H3K9me2_1
+bigDataUrl 324_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel chp2d H3K9me2 1 reads
+longLabel chp2d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 16
+group H3K9me2
+
+track 324_S2-ChIP-INPUT_1
+bigDataUrl 324_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel chp2d INPUT 1 reads
+longLabel chp2d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 17
+group INPUT
+
+track 324_S2-ChIP_1
+bigDataUrl 324_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel chp2d S2ChIP 1 reads
+longLabel chp2d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 18
+group S2ChIP
+
+track 324_S2-ChIP_2
+bigDataUrl 324_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel chp2d S2ChIP 2 reads
+longLabel chp2d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 19
+group S2ChIP
+
+track 491_H3K9me2_1
+bigDataUrl 491_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel mit1d H3K9me2 1 reads
+longLabel mit1d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 20
+group H3K9me2
+
+track 491_S2-ChIP-INPUT_1
+bigDataUrl 491_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel mit1d INPUT 1 reads
+longLabel mit1d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 21
+group INPUT
+
+track 491_S2-ChIP_1
+bigDataUrl 491_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel mit1d S2ChIP 1 reads
+longLabel mit1d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 22
+group S2ChIP
+
+track 491_S2-ChIP_2
+bigDataUrl 491_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel mit1d S2ChIP 2 reads
+longLabel mit1d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 23
+group S2ChIP
+
+track 504_H3K9me2_1
+bigDataUrl 504_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel rrp6d H3K9me2 1 reads
+longLabel rrp6d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 24
+group H3K9me2
+
+track 504_S2-ChIP-INPUT_1
+bigDataUrl 504_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel rrp6d INPUT 1 reads
+longLabel rrp6d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 25
+group INPUT
+
+track 504_S2-ChIP_1
+bigDataUrl 504_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel rrp6d S2ChIP 1 reads
+longLabel rrp6d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 26
+group S2ChIP
+
+track 504_S2-ChIP_2
+bigDataUrl 504_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel rrp6d S2ChIP 2 reads
+longLabel rrp6d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 27
+group S2ChIP
+
+track 510_H3K9me2_1
+bigDataUrl 510_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel caf1d H3K9me2 1 reads
+longLabel caf1d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 28
+group H3K9me2
+
+track 510_S2-ChIP-INPUT_1
+bigDataUrl 510_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel caf1d INPUT 1 reads
+longLabel caf1d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 29
+group INPUT
+
+track 510_S2-ChIP_1
+bigDataUrl 510_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel caf1d S2ChIP 1 reads
+longLabel caf1d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 30
+group S2ChIP
+
+track 510_S2-ChIP_2
+bigDataUrl 510_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel caf1d S2ChIP 2 reads
+longLabel caf1d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 31
+group S2ChIP
+
+track 530_H3K9me2_1
+bigDataUrl 530_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel exo2d H3K9me2 1 reads
+longLabel exo2d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 32
+group H3K9me2
+
+track 530_S2-ChIP-INPUT_1
+bigDataUrl 530_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel exo2d INPUT 1 reads
+longLabel exo2d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 33
+group INPUT
+
+track 530_S2-ChIP_1
+bigDataUrl 530_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel exo2d S2ChIP 1 reads
+longLabel exo2d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 34
+group S2ChIP
+
+track 530_S2-ChIP_2
+bigDataUrl 530_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel exo2d S2ChIP 2 reads
+longLabel exo2d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 35
+group S2ChIP
+
+track 544_S2-ChIP-OIN_1
+bigDataUrl 544_S2-ChIP-OIN_1.Aligned.sortedByCoord.out.bam
+shortLabel ccr4d INPUT 1 reads
+longLabel ccr4d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 36
+group INPUT
+
+track 544_S2-ChIP_1
+bigDataUrl 544_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel ccr4d S2ChIP 1 reads
+longLabel ccr4d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 37
+group S2ChIP
+
+track 544_S2-ChIP_2
+bigDataUrl 544_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel ccr4d S2ChIP 2 reads
+longLabel ccr4d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 38
+group S2ChIP
+
+track 591_S2-ChIP_1
+bigDataUrl 591_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel caf1d S2ChIP 1 reads
+longLabel caf1d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 39
+group S2ChIP
+
+track 638_H3K9me2_1
+bigDataUrl 638_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel ago1d H3K9me2 1 reads
+longLabel ago1d H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 40
+group H3K9me2
+
+track 638_S2-ChIP-INPUT_1
+bigDataUrl 638_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel ago1d INPUT 1 reads
+longLabel ago1d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 41
+group INPUT
+
+track 638_S2-ChIP_1
+bigDataUrl 638_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel ago1d S2ChIP 1 reads
+longLabel ago1d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 42
+group S2ChIP
+
+track 638_S2-ChIP_2
+bigDataUrl 638_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel ago1d S2ChIP 2 reads
+longLabel ago1d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 43
+group S2ChIP
+
+track 80_S2-ChIP-INPUT_1
+bigDataUrl 80_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel clr4d INPUT 1 reads
+longLabel clr4d INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 44
+group INPUT
+
+track 80_S2-ChIP_1
+bigDataUrl 80_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel clr4d S2ChIP 1 reads
+longLabel clr4d S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 45
+group S2ChIP
+
+track 80_S2-ChIP_2
+bigDataUrl 80_S2-ChIP_2.Aligned.sortedByCoord.out.bam
+shortLabel clr4d S2ChIP 2 reads
+longLabel clr4d S2ChIP 2 reads mapped with STAR
+type bam
+doWiggle on
+priority 46
+group S2ChIP
+
+track 80_S2-ChIP_3
+bigDataUrl 80_S2-ChIP_3.Aligned.sortedByCoord.out.bam
+shortLabel clr4d S2ChIP 3 reads
+longLabel clr4d S2ChIP 3 reads mapped with STAR
+type bam
+doWiggle on
+priority 47
+group S2ChIP
+
+track WT_H3K9me2_1
+bigDataUrl WT_H3K9me2_1.Aligned.sortedByCoord.out.bam
+shortLabel wt H3K9me2 1 reads
+longLabel wt H3K9me2 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 48
+group H3K9me2
+
+track WT_S2-ChIP-INPUT_1
+bigDataUrl WT_S2-ChIP-INPUT_1.Aligned.sortedByCoord.out.bam
+shortLabel wt INPUT 1 reads
+longLabel wt INPUT 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 49
+group INPUT
+
+track WT_S2-ChIP_1
+bigDataUrl WT_S2-ChIP_1.Aligned.sortedByCoord.out.bam
+shortLabel wt S2ChIP 1 reads
+longLabel wt S2ChIP 1 reads mapped with STAR
+type bam
+doWiggle on
+priority 50
+group S2ChIP
+
+track WT_S2-ChIP_3
+bigDataUrl WT_S2-ChIP_3.Aligned.sortedByCoord.out.bam
+shortLabel wt S2ChIP 3 reads
+longLabel wt S2ChIP 3 reads mapped with STAR
+type bam
+doWiggle on
+priority 51
+group S2ChIP
+

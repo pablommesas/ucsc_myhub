@@ -1,0 +1,8 @@
+genome spo2
+trackDb spo2/trackDb.txt
+description PomBase sequence for S. pombe (ASM294v2)
+twoBitPath spo2/Schizosaccharomyces_pombe_all_chromosomes.2bit
+organism fission yeast
+scientificName Schizosaccharomyces pombe
+defaultPos I:1-32006
+htmlPath

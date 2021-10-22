@@ -1,0 +1,6 @@
+hub myHub_test
+shortLabel RNA silencing Hub
+longLabel Ccr4 Not complex reduces transcription efficiency in heterochromatin
+genomesFile genomes.txt
+email monteagudo@genzentrum.lmu.de
+descriptionUrl 
